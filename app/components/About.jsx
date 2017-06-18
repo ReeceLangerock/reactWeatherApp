@@ -6,7 +6,7 @@ var About = props => {
     <div>
 
       <div>
-        <h1 className="text-center">About</h1>
+        <h1 className="text-center page-title">About</h1>
         <p>
           This is a Weather App built in React following Andrew Mead's Udemy React Course.</p><p> Check out the course
           {" "}
